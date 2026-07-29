@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.env
+.git
+.gitignore
+git_push_helper.bat
+run_chat_app.bat
+Dockerfile
+.dockerignore
